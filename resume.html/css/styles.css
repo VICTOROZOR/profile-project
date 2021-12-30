@@ -1,0 +1,34 @@
+header{
+    background-color:cadetblue; 
+    color: white;
+    margin:auto;
+    padding:2px;
+    text-align: center;
+    width: 1050px;
+
+}
+.column1{
+    
+    float: left;
+    flex: 40%;
+    background-color: none;
+
+}
+.column2{
+    text-align:justify;
+    background-color: cornsilk;
+    flex:60% ;
+    padding: 50px;
+    float: right;
+    height: 1000px;
+    width: 1000px;
+}
+img{
+    float: left;
+}
+.text{
+    padding:10px;
+}
+footer{
+    float: left;
+}
